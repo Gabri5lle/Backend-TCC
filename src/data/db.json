@@ -1,0 +1,65 @@
+{ 
+   "cidades": [{
+      "id": 1,
+      "Cid_nome": "Garissa",
+      "Cid_Estado": "SP",
+      "created_at": "2022-07-25T01:11:03Z",
+      "update_at": null
+    }, {
+      "id": 2,
+      "Cid_nome": "Zhaoguli",
+      "Cid_Estado": "RJ",
+      "created_at": "2022-12-24T06:27:21Z",
+      "update_at": "2023-02-07T00:10:16Z"
+    }, {
+      "id": 3,
+      "Cid_nome": "Standerton",
+      "Cid_Estado": "SC.PR",
+      "created_at": "2022-10-29T13:57:36Z",
+      "update_at": null
+    }, {
+      "id": 4,
+      "Cid_nome": "Yilongyong",
+      "Cid_Estado": "RS",
+      "created_at": "2022-03-01T02:25:14Z",
+      "update_at": "2022-09-27T13:02:48Z"
+    }, {
+      "id": 5,
+      "Cid_nome": "Taradale",
+      "Cid_Estado": "MT",
+      "created_at": "2022-11-25T22:22:03Z",
+      "update_at": "2022-12-18T22:22:33Z"
+    }, {
+      "id": 6,
+      "Cid_nome": "Uusikaupunki",
+      "Cid_Estado": "MS",
+      "created_at": "2022-03-08T16:01:18Z",
+      "update_at": "2022-11-24T15:25:23Z"
+    }, {
+      "id": 7,
+      "Cid_nome": "Gan Yavne",
+      "Cid_Estado": "SP",
+      "created_at": "2022-06-14T19:04:10Z",
+      "update_at": "2022-07-19T08:27:10Z"
+    }, {
+      "id": 8,
+      "Cid_nome": "Wangdun",
+      "Cid_Estado": "RJ",
+      "created_at": "2022-02-20T18:33:44Z",
+      "update_at": "2022-11-24T14:51:51Z"
+    }, {
+      "id": 9,
+      "Cid_nome": "Baisha",
+      "Cid_Estado": "SC.PR",
+      "created_at": "2022-10-09T23:49:41Z",
+      "update_at": null
+    }, {
+      "id": 10,
+      "Cid_nome": "Mūsá Qal‘ah",
+      "Cid_Estado": "RS",
+      "created_at": "2023-01-07T16:29:51Z",
+      "update_at": null
+    }]
+    
+   }
+  
